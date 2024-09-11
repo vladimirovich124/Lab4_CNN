@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Ucheba/MLE/Lab4_CNN/mlruns/912438958980585051
+creation_time: 1725962797169
+experiment_id: '912438958980585051'
+last_update_time: 1725962797169
+lifecycle_stage: active
+name: cnn_training_experiment

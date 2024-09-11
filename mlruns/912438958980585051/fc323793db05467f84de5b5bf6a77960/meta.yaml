@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ucheba/MLE/Lab4_CNN/mlruns/912438958980585051/fc323793db05467f84de5b5bf6a77960/artifacts
+end_time: 1725989518083
+entry_point_name: ''
+experiment_id: '912438958980585051'
+lifecycle_stage: active
+run_id: fc323793db05467f84de5b5bf6a77960
+run_name: sneaky-stag-185
+run_uuid: fc323793db05467f84de5b5bf6a77960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725987606380
+status: 3
+tags: []
+user_id: Vova
